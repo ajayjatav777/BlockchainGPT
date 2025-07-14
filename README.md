@@ -118,8 +118,6 @@ For research collaboration or enterprise inquiries, please open an issue or cont
 For any query or collaboration, please contact: [queryajayjatav@gmail.com](mailto:queryajayjatav@gmail.com)
 
 - **Live Application:** [https://coderun.ai/](https://coderun.ai/)
-- **LinkedIn:** [Ajay Jatav](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - **Upwork:** [Ajay Jatav on Upwork](https://www.upwork.com/freelancers/~019035a60af2847578?viewMode=1)
 =======
 # blockchain-llm-chat-assistant
->>>>>>> 0c61f053256e4a9601daf5dc612154daf2f7ab91
